@@ -1,0 +1,21 @@
+#logo {
+    background-color: red;
+}
+
+#nav_bar{
+    background-color: yellow;
+}
+
+#p1 {
+    background-color: rgb(26, 26, 26);
+    color: white;
+    padding: 5rem;
+}
+
+#t1 {
+    background-color: green;
+}
+
+#t2 {
+    background-color: skyblue;
+}

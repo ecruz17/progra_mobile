@@ -1,0 +1,64 @@
+img {
+    width: 100%;
+}
+
+#heading-1 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#brand_nav {
+    margin-left: 5rem;
+    margin-right: 35rem;
+}
+
+#art_1 {
+    text-align: center;
+    color: rgb(55, 122, 161);
+    text-justify: distribute;
+    margin-bottom: 1rem;
+}
+
+#gray_cont {
+    margin-top: 1rem;
+    background-color: rgb(226, 226, 226);
+    width: 100%;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 6rem;
+}
+
+#second_p {
+    margin-bottom: 3rem;
+}
+
+#bottom_cont {
+    text-align: center;
+}
+
+#bottom_head {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#collapse_h {
+    background-color: #007BFF;
+}
+
+#coll_a {
+    color: white;
+}
+
+#bottom_img{
+    width: 100%;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 3rem;
+    padding: 1rem;
+}
